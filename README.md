@@ -26,7 +26,7 @@ This project requires the **LdivSufSort** library, which can be found on the [Ld
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/45mohitsingh/Encoder-and-Decoder-Enhanced-RLE.git
    ```
 2. Install **LdivSufSort**:
    - On Linux:
